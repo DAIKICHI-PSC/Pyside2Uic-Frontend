@@ -47,7 +47,6 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
         self.saveData()
 
     def pushButton4_clicked(self):
-
         if os.path.isfile(self.ui.lineEdit1.text()) == False:
             msgbox = QtWidgets.QMessageBox(self)
             msgbox.setWindowTitle("Message")
