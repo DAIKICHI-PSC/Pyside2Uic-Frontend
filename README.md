@@ -2,8 +2,8 @@
 Pyside2-uic Front-End with GUI
 
 Description:  
-This program is a front-end of Pyside2-uic.  
-You can convert a ui files to a py file by using GUI.
+This program is a front-end for Pyside2-uic.  
+You can convert a ui files to a py file with GUI.
   
 Python Environment:  
 Python 3.7  
