@@ -22,7 +22,6 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
             f = open(selfDir + "/setting.txt", "r")
             text = f.readlines()
             f.close()
-            print(text)
             self.ui.lineEdit1.setText(text[0].replace("\n", ""))
             self.ui.lineEdit2.setText(text[1].replace("\n", ""))
 
