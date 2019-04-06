@@ -21,4 +21,4 @@ Set the path of pyside2-uic.bat(i.e. PYTHON_FOLDER/Library/bin/pyside2-uic.bat).
 Choose ui file.  
 Push EXEC button to convert ui file to py file.  
 
-NOTICE : Do not put SPACE in the file path. Otherwise you get an error. 
+NOTICE : Do not put SPACE in the file path or file name. Otherwise you will get an error. 
