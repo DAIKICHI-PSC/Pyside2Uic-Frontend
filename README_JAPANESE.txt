@@ -1,4 +1,4 @@
-＃Pyside2UicFrontEnd
+Pyside2UicFrontEnd
 Pyside2-uicフロントエンドです。
 
 説明：
