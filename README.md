@@ -20,3 +20,5 @@ After you placed files in your drive, run Pyside2UicFrontEnd.py(For convinience,
 Set the path of pyside2-uic.bat(i.e. PYTHON_FOLDER/Library/bin/pyside2-uic.bat).  
 Choose ui file.  
 Push EXEC button to convert ui file to py file.  
+
+NOTICE : Do not put SPACE in the file path. Otherwise you get an error. 
