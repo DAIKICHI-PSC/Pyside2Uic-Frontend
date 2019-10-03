@@ -17,7 +17,7 @@ pip install pyside2
   
 インストール2：
 ドライブにファイルを配置したら、Pyside2UicFrontEnd.pyを実行します（pyinstallerFrontEnd.pyを使用してpyファイルをexeファイルに変換すると便利です）。
-pyside2-uic.batのパスを設定します（例：PYTHON_FOLDER/Library/bin/pyside2-uic.bat）。
+pyside2-uic.bat、又はpyside2-uic.exeのパスを設定します（例：PYTHON_FOLDER/Library/bin/pyside2-uic.bat）。
 uiファイルを選択してください。
 EXECボタンを押して、uiファイルをpyファイルに変換します。
 

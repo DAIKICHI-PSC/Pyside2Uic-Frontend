@@ -36,7 +36,7 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
         self.saveData()
 
     def pushButton2_clicked(self):
-        FilePath, _ = QtWidgets.QFileDialog.getOpenFileName(self, "bat File", "",'bat File (*.bat)')
+        FilePath, _ = QtWidgets.QFileDialog.getOpenFileName(self, "bat File|exe File", "",'bat File (*.bat)|exe File (*.exe)')
         if FilePath:
             self.ui.lineEdit1.setText(FilePath)
             self.saveData()

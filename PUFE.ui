@@ -42,6 +42,11 @@
       <height>61</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>9</pointsize>
+     </font>
+    </property>
     <property name="title">
      <string>LOCATION OF pyside2-uic.bat</string>
     </property>
@@ -54,6 +59,11 @@
        <height>31</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>9</pointsize>
+      </font>
+     </property>
     </widget>
     <widget class="QPushButton" name="pushButton2">
      <property name="geometry">
@@ -63,6 +73,11 @@
        <width>93</width>
        <height>31</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>9</pointsize>
+      </font>
      </property>
      <property name="text">
       <string>OPEN</string>
@@ -76,6 +91,11 @@
        <width>93</width>
        <height>31</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>9</pointsize>
+      </font>
      </property>
      <property name="text">
       <string>RESET</string>
@@ -91,6 +111,11 @@
       <height>61</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>9</pointsize>
+     </font>
+    </property>
     <property name="title">
      <string>LOCATION OF UI FILE</string>
     </property>
@@ -103,6 +128,11 @@
        <height>31</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>9</pointsize>
+      </font>
+     </property>
     </widget>
     <widget class="QPushButton" name="pushButton5">
      <property name="geometry">
@@ -112,6 +142,11 @@
        <width>93</width>
        <height>31</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>9</pointsize>
+      </font>
      </property>
      <property name="text">
       <string>OPEN</string>
@@ -126,6 +161,11 @@
        <height>31</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>9</pointsize>
+      </font>
+     </property>
      <property name="text">
       <string>EXEC</string>
      </property>
@@ -138,6 +178,11 @@
        <width>93</width>
        <height>31</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>9</pointsize>
+      </font>
      </property>
      <property name="text">
       <string>RESET</string>
